@@ -1,3 +1,6 @@
+/**
+ * Client class
+ */
 public class King implements Royalty{
 
     @Override
