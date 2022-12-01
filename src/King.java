@@ -23,5 +23,4 @@ public class King implements Royalty{
         System.out.println("King got hair cut");
     }
 
-
 }
